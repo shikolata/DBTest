@@ -1,0 +1,1 @@
+Checking if this file will be committed having been staged, then modified, but never committed
